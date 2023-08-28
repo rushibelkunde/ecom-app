@@ -1,3 +1,8 @@
 {
-    "name": "Rushikesh"
+    "posts": [
+        {"id": "01", "name": "rushi"},
+        {"id": "02", "name": "rutu"}
+    ]
+
+    
 }
