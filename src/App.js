@@ -35,13 +35,13 @@ function App() {
       ]
     }
   ], {
-    basename: "/buy-busy"
+    basename: "/ecom-app"
   })
 
 
   return (
 
-    <RouterProvider router={router} basename={"/buy-busy"}>
+    <RouterProvider router={router} basename={"/ecom-app"}>
 
     </RouterProvider>
   )
